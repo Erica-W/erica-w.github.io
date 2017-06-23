@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Blackburn Theme Demo</title>
-    <link>http://erica-w.github.io/topics/</link>
+    <link>https://erica-w.github.io/topics/</link>
     <description>Recent content in Topics on Blackburn Theme Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     
-	<atom:link href="http://erica-w.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://erica-w.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
